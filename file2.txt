@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file 2 Fourth commit
+=======
+file 2 Third Commit
+>>>>>>> branch1
